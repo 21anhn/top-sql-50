@@ -1,7 +1,7 @@
 
 # LeetCode SQL 50 Solutions
 
-This repository contains my solutions for the *Top 50 SQL Questions* on LeetCode. These solutions are written using SQL Server syntax, aiming to strengthen my problem-solving skills and prepare for technical interviews.
+This repository contains my solutions for the *[Top 50 SQL Questions](https://leetcode.com/studyplan/top-sql-50/)* on LeetCode. These solutions are written using SQL Server syntax, aiming to strengthen my problem-solving skills and prepare for technical interviews.
 
 
 ## Purpose
